@@ -1,0 +1,4 @@
+TIPS PROYECTO 2
+
+cards con platos
+1 container y luego dividimos con filas y columnas
