@@ -1,5 +1,15 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
 #main {
     background-color: aqua;
+}
+
+h3 {
+    color: rgb(162,98,68);
+    padding: 0px 0px 10px;
+    margin: 0;
 }
 
 a {
@@ -12,12 +22,34 @@ a {
     background-color: aqua;
 }
 
+
 #row-header {
     background-image: linear-gradient(to bottom right, black, grey);
 }
 
+#row-footer {
+    background-image: linear-gradient(to bottom right, grey, black);
+}
+
+#menu-bg {
+    background-image: url(../images/carousel2.jpg);
+
+}
+
 .section {
     background-color: #50445f !important;
+}
+
+.section-menu {
+    background-image: url(../images/albufera.jpg);
+    background-size:cover;
+}
+.section-menu2 {
+    background-color: white;
+}
+
+#main-content {
+    background-color: #50445f;
 }
 
 .section2 {
@@ -38,6 +70,18 @@ a {
 .carousel {
     margin: 5vh 10vw 5vh 10vw;
 }
+
+.button-pdf {
+    background-color: #50445f;
+    border-color: #50445f;
+
+}
+
+.button-pdf:hover {
+    background-color: rgb(162,98,68);
+}
+
+
 
 p {
     margin-right: 10vw;
