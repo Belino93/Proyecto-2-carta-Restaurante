@@ -6,6 +6,17 @@
     background-color: aqua;
 }
 
+.page:hover {
+    color: rgb(162,98,68) !important;
+}
+
+.page-active {
+    background-color: #50445f;
+}
+.page-active:hover {
+    color: rgb(162,98,68) !important;
+}
+
 h3 {
     color: rgb(162,98,68);
     padding: 0px 0px 10px;
@@ -74,14 +85,13 @@ a {
 .button-pdf {
     background-color: #50445f;
     border-color: #50445f;
-
+    color:white
 }
 
 .button-pdf:hover {
-    background-color: rgb(162,98,68);
+    background-color: rgb(162,98,68) !important;
+    color: white !important;
 }
-
-
 
 p {
     margin-right: 10vw;
