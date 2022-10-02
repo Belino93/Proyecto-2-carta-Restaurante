@@ -2,8 +2,8 @@
     font-family: 'Roboto', sans-serif;
 }
 
-#main {
-    background-color: aqua;
+.navbar-bg {
+    background-image: linear-gradient(to bottom right);
 }
 
 .page:hover {
@@ -34,7 +34,7 @@ a {
 }
 
 
-#row-header {
+.row-header {
     background-image: linear-gradient(to bottom right, black, grey);
 }
 
