@@ -7,6 +7,7 @@ Este es el segundo proyecto semanal de Geekshubs
 - ###### HTML5
 - ###### CSS
 - ###### Bootstrap
+- Iconos utilizados extraidos de: https://www.iconfinder.com/
 <hr>
 
 En primer lugar se realiza el index.html, se crea el header, contenedor central y footer
